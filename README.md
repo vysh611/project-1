@@ -82,5 +82,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-**Author:** [Your Name]  
-**GitHub:** [yourusername](https://github.com/yourusername)
+**Author:** [Vyshnavi]  
+**GitHub:** [my profile](https://github.com/vysh611)
